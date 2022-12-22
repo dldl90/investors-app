@@ -41,7 +41,7 @@
     "express-http-proxy": "^1.2.0",
     "express-request-proxy": "^2.1.0",
     "fs": "^0.0.1-security",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "qs": "^6.5.2",
     "react": "^16.4.0",
